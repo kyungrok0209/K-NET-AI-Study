@@ -9,3 +9,4 @@
 | ---- | ----- | ---- |
 | 2024.08.21. | 김현규 | On Calibration of Modern Neural Network |
 | 2024.09.03. | 김현규 | GAN & conditional GAN |
+| 2024.09.03. | 한은규 | timesnet -temporal 2d-variation modeling for general time series analysis- 리뷰|
