@@ -9,5 +9,7 @@
 | ----------- | ------ | --------------------------------------- |
 | 2024.08.21. | 김현규 | On Calibration of Modern Neural Network |
 | 2024.08.27. | 강민혁 | 외부 라이브러리 없는 mlp 코드리뷰       |
+| 2024.08.27. | 박수원 | 혼자 공부하는 머신러닝+딥러닝 07-1 인공 신경망 |
 | 2024.09.03. | 김현규 | GAN & conditional GAN |
 | 2024.09.03. | 한은규 | timesnet -temporal 2d-variation modeling for general time series analysis- 리뷰|
+| 2024.09.24. | 박수원 | 혼자 공부하는 머신러닝+딥러닝 07-2 심층 신경망 |
