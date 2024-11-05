@@ -13,3 +13,4 @@
 | 2024.09.03. | 김현규 | GAN & conditional GAN |
 | 2024.09.03. | 한은규 | timesnet -temporal 2d-variation modeling for general time series analysis- 리뷰|
 | 2024.09.24. | 박수원 | 혼자 공부하는 머신러닝+딥러닝 07-2 심층 신경망 |
+| 2024.11.05. | 한은규 | timesnet -temporal 2d-variation modeling for general time series analysis- 리뷰 (2)|
